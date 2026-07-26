@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
+| [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
+| [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -45,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
