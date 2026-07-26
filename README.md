@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -31,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
