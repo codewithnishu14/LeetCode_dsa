@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0705-design-hashset](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0705-design-hashset) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
