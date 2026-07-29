@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/nisargprajapati14/LeetCode_dsa/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
